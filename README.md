@@ -8,6 +8,12 @@ project-team_30 created by GitHub Classroom
 ## Dataset link
 Data required for running the ipython notebook: [Google Drive](https://drive.google.com/drive/u/2/folders/1jlsXQYunm5r6wLQRA3V8yBAThKWp9JQb)
 
+## Requirements
+- Spark
+- PySpark
+- MongoDB
+- PyMongo
+
 ## How to run the pipeline
 - Download all dataset files from link given above to the project root directory
 - Open the notebook corresponding to the pipeline you want to run:
